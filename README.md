@@ -1,5 +1,8 @@
 ### Hi there 👋
+### I'm Vanshika Goel, a passionate UX Designer, and a Development enthusiast ✨
 
+Connect with me on my LinkedIn:
+https://www.linkedin.com/in/vanshika-goel-057556217/
 <!--
 **vanshikagoel1/vanshikagoel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
